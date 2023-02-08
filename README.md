@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Frontend+and+React+Developer;I+always+use+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=3620AB&background=FFFFFF00&width=435&lines=I'm+FrontEnd+and+React+Developer;I+always+use+Github)](https://git.io/typing-svg)
