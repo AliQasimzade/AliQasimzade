@@ -23,40 +23,42 @@
     <a href="https://aliqasimzade-portfolio.netlify.app" style="width:100%; display:block;justify-content: center;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=333333&background=FFFFFF00&width=435&lines=I'm+FrontEnd+and+Mobile+Developer;Visit+my+portfolio" alt="Typing SVG" /></a>
   </p>
 
+### :technologist: **About Me**:
 
-  ### :technologist: **About Me**:
+I am a Frontend(Mobile) Developer currently working as a remote worker for RG Agency and I'm Frontend Instructor in RG Academy
 
-  I am a Frontend(Mobile) Developer currently working as a remote worker  for RG Agency and I'm Frontend Instructor in RG Academy
+- ♾️ Check out for my projects here - https://github.com/AliQasimzade
 
-  - ♾️ Check out for my projects here - https://github.com/AliQasimzade
+- :infinity: I love Video games :video_game: and Reading sci-fi books: -in my spare time.
 
-  - :infinity: I love Video games :video_game: and Reading sci-fi books: -in my spare time.
+- :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Gasimzadeh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aligasimzadeh/)
 
-  - :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Gasimzadeh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aligasimzadeh/)
+---
 
-  ---
+### :I use Languages and Tools :
 
-  ### :I use Languages and Tools :
   <div id="languages" align="center">
-    <img src="./images/html.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/Css.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/js.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/react.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/mondogb.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/bootstrap.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/tailwindcss.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/mui.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/native.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/next.png" width="100" />&nbsp;&nbsp;
-    <img src="./images/sass.png" width="80"  />&nbsp;&nbsp;
-    <img src="./images/typescript.png" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80"  />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"  />&nbsp;&nbsp;
 
-  
 </div>
 
-  ---
+---
 
-  ### :fire: My Stats
+### :fire: My Stats
 
   <div id="stats" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliQasimzade&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
@@ -64,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AliQasimzade&show_icons=true&theme=radical"/>
   </div>
 
-  ---
+---
 
   <div id="jokes" align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt"/>
